@@ -19,7 +19,7 @@ delivery time & order time
 steps
 
 cleaning the data process
-used /excel + powerquery
+used / power bi + powerquery
 remove dublicates rows in order id
 convert the date columns to date time
 
