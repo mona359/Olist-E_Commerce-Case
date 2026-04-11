@@ -19,7 +19,7 @@ delivery time & order time
 steps
 
 cleaning the data process
-used / power bi + powerquery
+used / SQL + powerquery
 remove dublicates rows in order id
 convert the date columns to date time
 
@@ -27,3 +27,8 @@ analysis & insights
 
 caculate the delivery success.
 deiivery rate is 97%: there are some delivery orders without date which make the number un trusted
+
+Key Business Insights:
+يوجد ما يقرب من 3,400 طلب متأخر مقابل 57,100 في الموعد.
+
+القرار: تحديد شركات الشحن المسؤولة عن هذه الـ 3,400 شحنة واستبدالها لتحسين معدل الوصول في الموعد.
